@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Ionika\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Ionika\\.nuget\\packages"
+    ]
+  }
+}

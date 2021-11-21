@@ -1,0 +1,16 @@
+C:\Users\Ionika\source\repos\ConsoleAppADS_2__\ConsoleAppADS_2__\bin\Debug\net5.0\ConsoleAppADS_2__.exe
+C:\Users\Ionika\source\repos\ConsoleAppADS_2__\ConsoleAppADS_2__\bin\Debug\net5.0\ConsoleAppADS_2__.deps.json
+C:\Users\Ionika\source\repos\ConsoleAppADS_2__\ConsoleAppADS_2__\bin\Debug\net5.0\ConsoleAppADS_2__.runtimeconfig.json
+C:\Users\Ionika\source\repos\ConsoleAppADS_2__\ConsoleAppADS_2__\bin\Debug\net5.0\ConsoleAppADS_2__.runtimeconfig.dev.json
+C:\Users\Ionika\source\repos\ConsoleAppADS_2__\ConsoleAppADS_2__\bin\Debug\net5.0\ConsoleAppADS_2__.dll
+C:\Users\Ionika\source\repos\ConsoleAppADS_2__\ConsoleAppADS_2__\bin\Debug\net5.0\ref\ConsoleAppADS_2__.dll
+C:\Users\Ionika\source\repos\ConsoleAppADS_2__\ConsoleAppADS_2__\bin\Debug\net5.0\ConsoleAppADS_2__.pdb
+C:\Users\Ionika\source\repos\ConsoleAppADS_2__\ConsoleAppADS_2__\obj\Debug\net5.0\ConsoleAppADS_2__.csproj.AssemblyReference.cache
+C:\Users\Ionika\source\repos\ConsoleAppADS_2__\ConsoleAppADS_2__\obj\Debug\net5.0\ConsoleAppADS_2__.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ionika\source\repos\ConsoleAppADS_2__\ConsoleAppADS_2__\obj\Debug\net5.0\ConsoleAppADS_2__.AssemblyInfoInputs.cache
+C:\Users\Ionika\source\repos\ConsoleAppADS_2__\ConsoleAppADS_2__\obj\Debug\net5.0\ConsoleAppADS_2__.AssemblyInfo.cs
+C:\Users\Ionika\source\repos\ConsoleAppADS_2__\ConsoleAppADS_2__\obj\Debug\net5.0\ConsoleAppADS_2__.csproj.CoreCompileInputs.cache
+C:\Users\Ionika\source\repos\ConsoleAppADS_2__\ConsoleAppADS_2__\obj\Debug\net5.0\ConsoleAppADS_2__.dll
+C:\Users\Ionika\source\repos\ConsoleAppADS_2__\ConsoleAppADS_2__\obj\Debug\net5.0\ref\ConsoleAppADS_2__.dll
+C:\Users\Ionika\source\repos\ConsoleAppADS_2__\ConsoleAppADS_2__\obj\Debug\net5.0\ConsoleAppADS_2__.pdb
+C:\Users\Ionika\source\repos\ConsoleAppADS_2__\ConsoleAppADS_2__\obj\Debug\net5.0\ConsoleAppADS_2__.genruntimeconfig.cache
