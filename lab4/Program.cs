@@ -63,7 +63,7 @@ namespace ConsoleAppADS_4
                         case "Task":
                             Console.Write("Введiть iндекс вузла: "); int M6 = int.Parse(Console.ReadLine());
                             dLNode.Print();
-                            dLNode.DelAtPosition(M6);
+                            dLNode.Task(M6);
                             dLNode.Print();
                             break;
                         case "clear":
@@ -88,9 +88,9 @@ namespace ConsoleAppADS_4
                             break;
                     }
                 }
-                catch
+                catch(Exception e)
                 {
-                    Console.WriteLine("Error");
+                    Console.WriteLine(e);
                 }
             }
         }
@@ -99,6 +99,7 @@ namespace ConsoleAppADS_4
     public class DLNode
     {
         private Node head;
+
         public void AddFirst(int data)
         {
             if (head == null)
@@ -206,8 +207,8 @@ namespace ConsoleAppADS_4
         {
             if (head == null)
             {
-                AddFirst(data);
-            }
+                AddFirst(data);                
+            }           
             else
             {
                 Node n = head;
@@ -215,14 +216,15 @@ namespace ConsoleAppADS_4
                 {
                     n = n.next;
                 }
-                if (n.data % 2 == 0)
+                if (data % 2 == 0)
                 {
-                    if (n.prev == null)
+                    if (head.next == null)
                     {
                         AddFirst(data);
                         return;
                     }
                     n.prev.next = new Node(data, n.prev, n);
+                    n.prev = n.prev.next;
                 }
                 else
                 {
